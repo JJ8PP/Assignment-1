@@ -6,6 +6,9 @@ First assigment in Data Science and Aanlytics training program
 ## **Data source**
 Kaggler: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
 
+## **Data set**
+Worldwide sales for different type of toys
+
 ## **Questions**
 - [ ] Which is the Product line that sold more?
 - [ ] Which is the Product line that contributed more to the companys' revenues?
