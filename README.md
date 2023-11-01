@@ -14,6 +14,10 @@ Worldwide sales for different type of toys
 - [ ] Which is the Product line that contributed more to the companys' revenues?
 - [ ] Which is the Country that contributed more to the companys' revenues?
 
+## **Instructions**
+- Download the data ser from Kaggler
+- Answer quiestions 
+      
 ## **Stakeholders**
 1. Jorge Paganetto
 2. Natalya von Mizener
